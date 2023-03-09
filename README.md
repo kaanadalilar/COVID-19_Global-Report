@@ -1,5 +1,6 @@
 # COVID-19_Global-Report
 Data Science Project to analyze COVID-19 pandemic
+
 Project Description
 In this project, we worked on a Kaggle dataset consisting of the cumulative count of confirmed, death, and recovered cases of COVID-19 from different countries starting from 22nd January, 2020. We analyzed the data both visually and statistically, as well as investigated any possible hidden relationship to make future predictions for a given geographical region. 
 
