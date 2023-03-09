@@ -6,8 +6,7 @@ In this project, we worked on a Kaggle dataset consisting of the cumulative coun
 We also extracted features from additional datasets and combine them with the original one to perform data aggregation.
 
 Our project is consisting of 3 main sections:
-Exploratory Data Analysis
 
-Statistical Analysis & Hypothesis Testing
-
-Machine Learning
+- [x] Exploratory Data Analysis
+- [x] Statistical Analysis & Hypothesis Testing
+- [x] Machine Learning
